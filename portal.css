@@ -1,0 +1,31 @@
+body {
+    background-color: blanchedalmond;
+}
+a {
+    background-color: lightblue;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+}
+nav {
+    display: flex;
+}
+#primary {
+    background-color: aliceblue;
+}
+p {
+    background-color: aliceblue;
+}
+.background {
+    
+}
+img {
+    background-color: aliceblue;
+    padding: 5px;
+    margin: 10px;
+}
+h1 {
+    text-decoration: overline;
+}
