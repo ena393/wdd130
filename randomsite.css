@@ -40,16 +40,16 @@
 }
 .sidebar {
     float: left;
-    width: 300px;
-    min-height: 800px;
+    width: 150px;
+    min-height: 300px;
 }
 .content {
     float: right;
-    width: 900px;
+    width: 100%;
     min-height: 800px;
 }
 .article {
-    margin: 20px;
+    margin: 5px;
 }
 .article h2 {
     font-size: 30px;
